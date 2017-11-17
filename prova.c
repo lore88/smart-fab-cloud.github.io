@@ -1,4 +1,4 @@
-nclude <stdlib.h>
+include <stdlib.h>
  #include <stdio.h>
  int main(void) {
     int n, k, r, m;
