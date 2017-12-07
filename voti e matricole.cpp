@@ -1,3 +1,5 @@
+// ordinare i voti di un esame ...ho provato con gli array bidimensionali//
+
 #include <iostream>
 
 using namespace std;
@@ -28,7 +30,7 @@ using namespace std;
 
         cout<<vec[i][j]<< ",";
 
-        //ordinamento bubble sort
+        //ordinamento bubble sort..non esattamente il migliore ma vabbè ...//
         }
         cout << '\n';
     }
