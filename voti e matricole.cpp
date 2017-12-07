@@ -17,7 +17,7 @@ using namespace std;
 
 
         cin>>vec[i][j];
-        cout<<"ecco a te:"<<endl;
+        cout<<"vediamo un po..:"<<endl;
     for (int i=0;i<3;i++)
     {
 
